@@ -4,10 +4,10 @@ A simple PHP CRUD application for managing Students using a MySQL database.
 
 ## Features
 
-- Create new products.
-- Read existing products.
-- Update existing products.
-- Delete products.
+- Create .
+- Read .
+- Update .
+- Delete.
 
 ## Prerequisites
 
