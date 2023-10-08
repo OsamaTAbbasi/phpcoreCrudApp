@@ -1,6 +1,6 @@
 # PHP CRUD Application
 
-A simple PHP CRUD application for managing products using a MySQL database.
+A simple PHP CRUD application for managing Students using a MySQL database.
 
 ## Features
 
@@ -21,4 +21,4 @@ Before you begin, ensure you have met the following requirements:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/php-crud-app.git
+  https://github.com/OsamaTAbbasi/phpcoreCrudApp
