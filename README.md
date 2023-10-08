@@ -20,5 +20,4 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone this repository:
 
-   ```bash
-  https://github.com/OsamaTAbbasi/phpcoreCrudApp
+   ```bash https://github.com/OsamaTAbbasi/phpcoreCrudApp
